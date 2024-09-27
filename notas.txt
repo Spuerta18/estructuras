@@ -1,0 +1,6 @@
+los arreglos son un espacio de memoria que almacena multiples valores
+Los arreglos son un conjunto de datos(cualquier tipo de datos)
+tambien puede ser vacio segun tus necesidades
+
+Tamaño : hace referencia a la cantidad de elementos dentro del arreglos
+Posicion : hace refeencia a la cantidad de elementos -1 pedirla entre corchetes
