@@ -4,3 +4,6 @@ tambien puede ser vacio segun tus necesidades
 
 Tamaño : hace referencia a la cantidad de elementos dentro del arreglos
 Posicion : hace refeencia a la cantidad de elementos -1 pedirla entre corchetes
+
+Recorrido : Se utiliza para buscar-acceder a la  informacion
+llenado : se utiliza para alimentar el arreglo 
